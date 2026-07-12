@@ -1,1 +1,1 @@
-# odin-recipe
+This project is a simple recipe website with a main page that links to a few recipe pages. The goal for this project is to test my knowledge on HTML and Git Basics.

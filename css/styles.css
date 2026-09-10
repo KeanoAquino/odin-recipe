@@ -1,0 +1,49 @@
+body {
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+}
+
+.home {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.full-width-banner {
+    height: 300px;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.ingredient-step-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ingredients {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 500px;
+    background-color: #f3f3f3;
+    margin: 20px 20px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 3%;
+}
+
+.steps {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 500px;
+    background-color: #f3f3f3;
+    margin: 20px 20px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 3%;
+}
